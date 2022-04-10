@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @lemonsprite
+- 👋 Hi, I’m Noor Alfath
 - 👀 I’m interested in Web and Android Develovement
-- 🌱 I’m currently learning Android
+- 🌱 Nice to Meet You
 
 <!---
 lemonsprite/lemonsprite is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
